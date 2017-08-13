@@ -56,7 +56,7 @@ Ref: https://wpvulndb.com/vulnerabilities/8615
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/zakia00/Week2Lab/blob/master/week7.gif' title='Video Walkthrough of Week7 Lab' width='' alt='Video Walkthrough' />
+<img src='https://github.com/zakia00/Week7Lab/blob/master/week7.gif' title='Video Walkthrough of Week7 Lab' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
